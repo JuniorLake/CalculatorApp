@@ -9,5 +9,4 @@ A Simple Calculator App
 * Used MVVM architecture
 
 # What APP Looks Like
-https://user-images.githubusercontent.com/88419868/146677581-c4d6c436-cd22-4347-8eaa-6ef9d3d8ac1c.mp4
-
+![CalculatorAppGif2](https://user-images.githubusercontent.com/88419868/146689933-73ea3f91-e94a-4849-8049-11f6ddb4a645.gif)
