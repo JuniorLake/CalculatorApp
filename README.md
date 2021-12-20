@@ -1,6 +1,6 @@
 # CalculatorApp
 
-A Simple Calculator App
+A Simple Android Calculator App
 
 # What I Learned
 
